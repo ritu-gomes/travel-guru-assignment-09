@@ -1,0 +1,17 @@
+.places{
+    display: inline-block;
+    margin: 0 10px;
+}
+.placeImg{
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    z-index: 1;
+}
+.placeName{
+    position: relative;
+    left: 15%;
+    top: -47px;
+    color: white;
+    z-index: 2;
+}

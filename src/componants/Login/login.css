@@ -1,0 +1,27 @@
+.login form{
+    border: 1px solid grey;
+}
+.login{
+    margin: 40px auto;
+    text-align: center;
+}
+.width{
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px auto;
+}
+.width-btn{
+    width: 30%;
+    border: none;
+    border-radius: 5px;
+    background-color: #F9A51A;
+    color: white;
+    padding: 5px;
+    margin: 5px auto;
+}
+h6 span{
+    color:#F9A51A;
+}

@@ -1,0 +1,31 @@
+.booking{
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+}
+input{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+.text{
+    width: 100%;
+}
+.date{
+    width: 50%;
+}
+form{
+    margin: auto;
+    width: 50%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.bookingBtn{
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    background-color: #F9A51A;
+    padding: 10px;
+}
